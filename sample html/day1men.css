@@ -1,0 +1,29 @@
+*{
+    text-align:center;
+    
+}
+h1{
+  color: blue;
+}
+.img:hover{
+  transform: scale(1.05);
+}
+.img{
+  height: 60%;
+  width: 40%;
+}
+table,th,tr,td{
+  border: solid 3px;
+  color: rgb(0, 0, 0);
+  border-collapse: collapse;
+  
+}
+.t1{
+   margin: 0% auto;
+  
+}
+.f1{
+  border: 2px;
+}
+
+
